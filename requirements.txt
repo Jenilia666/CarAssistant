@@ -106,7 +106,7 @@ keras==3.4.1
 kiwisolver==1.4.5
 kubernetes==29.0.0
 langchain==0.2.7
-langchain-community==0.2.7
+langchain-community==0.1.12
 langchain-core==0.2.26
 langchain-openai==0.1.20
 langchain-text-splitters==0.2.2
